@@ -1,0 +1,2 @@
+module RubyVmHelper
+end
